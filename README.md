@@ -1,4 +1,5 @@
 # ChatGPillT
 ### how to run
-cd run \n
+cd run
+
 streamlit run app.py
